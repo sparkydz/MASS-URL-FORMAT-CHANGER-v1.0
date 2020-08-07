@@ -23,7 +23,8 @@ import sys
 
 ```python
 1: type '1' to get FROM WWW.SITE1.COM TO HTTP://WWW.SITE.COM (BULK).
-2: type '2' to get FROM FROM HTTP://WWW.SITE.COM TO WWW.SITE.COM (BULK)```
+2: type '2' to get FROM FROM HTTP://WWW.SITE.COM TO WWW.SITE.COM (BULK)
+```
 ## Proof of concept :
 [![Watch the video](https://i.imgur.com/JnW2jnn.jpg)](https://youtu.be/i58bXfIrNlk)
 
