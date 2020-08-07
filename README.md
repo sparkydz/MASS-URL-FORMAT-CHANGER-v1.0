@@ -1,4 +1,4 @@
-# SparkyDzBot v1.0
+# MASS URL FORMAT CHANGER v1.0 by SparkyDz
 
 - MASS URL FORMAT CHANGER v1.0 is a Python tool that generate phone numbers (WorldWide) then make a HQ Combolist.
 - Contact : raficronaldo89@gmail.com
