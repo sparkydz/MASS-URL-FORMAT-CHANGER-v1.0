@@ -1,0 +1,2 @@
+# MASS-URL-FORMAT-CHANGER-v1.0---by-SparkyDz
+MASS URL FORMAT CHANGER v1.0 - by SparkyDz
